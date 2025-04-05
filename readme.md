@@ -2,9 +2,11 @@
 
 This is an utilitary to organize specifications, to you guy that is tired of editting and proposing changes in sheets(shit)-like softwares.
 
-{}
+{Specification}(docs/spec.md)
 
 ## Product specification
+see documentation [here](docs/unlockdoc.md)
+
 * Each specification must have a unique reference.
 * Each specification must be easy to edit and propose changes.
 * Each specification must have easy to edit markup sintaxes.

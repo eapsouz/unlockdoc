@@ -18,8 +18,8 @@ def process_includes(path):
                 content = inc.read()
 
             titulo = Path(file_name).stem  # Nome do arquivo sem extensão
-            resultado.append(f"\n## {titulo}\n\n")
-            resultado.append(content + "\n")
+            resultado.append(f"---\n### {titulo}\n")
+            resultado.append(content)
         else:
             resultado.append(linha)
 
