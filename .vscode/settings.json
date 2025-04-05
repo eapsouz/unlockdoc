@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "${workspaceFolder}/venv/Scripts/python.exe",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [
+      "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.analysis.extraPaths": [
+      "./src"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
