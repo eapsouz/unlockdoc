@@ -19,7 +19,7 @@ def process_includes(path):
 
             titulo = Path(file_name).stem  # Nome do arquivo sem extensão
             resultado.append(f"---\n### {titulo}\n")
-            resultado.append(content)
+            resultado.append(content + "\n")
         else:
             resultado.append(linha)
 
