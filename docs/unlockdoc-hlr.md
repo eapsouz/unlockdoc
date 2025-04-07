@@ -1,66 +1,66 @@
 # Requirements specification
 
 ---
-### 1-I
+### 1
 This section is the higher level requirements
 
 ---
-### 1-F
+### 1
 Each specification must have a unique reference.
 
 <details>
 <summary>trace to</summary>
 
-[1-R.rat](rationalles/1-R.rat)
+[1.rat](rationalles/1.rat)
 </details>
 
 ---
-### 2-F
+### 2
 Each specification must be easy to edit and propose changes.
 
 <details>
 <summary>trace to</summary>
 
-[2-R.rat](rationalles/2-R.rat)
+[2.rat](rationalles/2.rat)
 </details>
 
 ---
-### 3-F
+### 3
 Each specification must have easy to edit markup sintaxes.
 
 <details>
 <summary>trace to</summary>
 
-[2-R.rat](rationalles/2-R.rat)
+[2.rat](rationalles/2.rat)
 </details>
 
 ---
-### 4-F
+### 4
 A final document must be possible to be generated contaning all specifications organize in a human readable text
 
 <details>
 <summary>trace to</summary>
 
-[3-R.rat](rationalles/3-R.rat)
+[3.rat](rationalles/3.rat)
 </details>
 
 ---
-### 5-F
+### 5
 Each specification must have means of citation to another specification or to be citated by another specification
 
 <details>
 <summary>trace to</summary>
 
-[1-R.rat](rationalles/1-R.rat)
+[1.rat](rationalles/1.rat)
 </details>
 
 ---
-### 6-F
-Each specification must be classified as [Functional], [Derived], [Rationalle] or [Informative] to be indicated respectivelly as [F], [D], [R], [I] on the file name.
+### 6
+Each specification must be classified as [Functional], [Derived], [Rationalle] or [Informative].
 
 <details>
 <summary>trace to</summary>
 
-[4-R.rat](rationalles/4-R.rat)
+[4.rat](rationalles/4.rat)
 </details>
 
